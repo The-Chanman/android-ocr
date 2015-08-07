@@ -1,6 +1,8 @@
 #android-ocr
 * * *
 
+This is me playing around with OCR and maybe TTS
+
 An experimental app for Android that performs optical character recognition (OCR) on images captured using the device camera.
 
 Runs the Tesseract OCR engine using a fork of Tesseract Tools for Android.
